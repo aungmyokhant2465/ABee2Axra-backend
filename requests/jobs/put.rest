@@ -1,0 +1,14 @@
+PUT http://localhost:3001/api/jobs/1
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE2NTg3MzMwMDIsImV4cCI6MTY1ODc3NjIwMn0.w8toerdnzH2u8PObL72oUIfRPn0FSZqjho0bX9UQSbU
+
+
+{
+    "title": "Web Developer",
+    "companyName": "Axra",
+    "contractPlan": "full-time",
+    "location": "Yangon",
+    "salary": "3500000",
+    "experienceLevel": "Junior",
+    "description": "That is primary career Text messaging allows recuriters to follow up with candidates after an interview and keep them inhtmlFormed about their application status."
+}

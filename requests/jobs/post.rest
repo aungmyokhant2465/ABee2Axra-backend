@@ -1,0 +1,13 @@
+POST http://157.245.201.127:3001/api/jobs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE2NTkxNjMyMDAsImV4cCI6MTY1OTIwNjQwMH0.uuH88D-XV3aF9nBeQMRZn35CRp3nlYrqYTwVfOppRXg
+
+{
+    "title": "Web Backend Developer",
+    "companyName": "Axra Technology Limited",
+    "contractPlan": "full-time",
+    "location": "Yangon",
+    "salary": "150,000 MMK",
+    "experienceLevel": "junior",
+    "description": "Text messaging allows recuriters to follow up with candidates after an interview and keep them inhtmlFormed about their application status."
+}

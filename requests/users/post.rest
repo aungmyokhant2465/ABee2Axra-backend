@@ -1,0 +1,17 @@
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+    "email": "aa@gmail.com",
+    "name": "AA",
+    "password": "aa",
+    "phone": "0933333333333",
+    "dateOfBirth": "2022-07-22T02:06:15.742Z",
+    "nrc": "10/pmn(N)354539",
+    "education": "Computer Technology",
+    "preferContractPlan": "fulltime",
+    "exprienceLevel": "Junior",
+    "skill": "HTML, CSS, Javascritp",
+    "address": "Yangon",
+    "about": "Proactive in learing new thing"
+}

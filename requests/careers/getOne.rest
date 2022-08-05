@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/careers/7
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNjQGdtYWlsLmNvbSIsImlkIjozLCJpYXQiOjE2NTgwNzE4MzcsImV4cCI6MTY1ODExNTAzN30.jOwdiJmBkVnIrnRNLqlZ97WErqVM8D3Q6eVg3H8Oy9o

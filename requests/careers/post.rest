@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/careers
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNjQGdtYWlsLmNvbSIsImlkIjozLCJpYXQiOjE2NTgwNzA5MTUsImV4cCI6MTY1ODExNDExNX0.Fa6Qk7uQ8h8b7DAS70590trVVg4GTnt9jjhX8_SKQUc
+
+{
+    "title": "Web Developer 3",
+    "description": "That is primary career"
+}

@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/users/1
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE2NTg0NjEwODYsImV4cCI6MTY1ODUwNDI4Nn0.0gV26KQhOqQOzQqE-_EyfgJ5cgxwYJesQAn-BVwWPV4
+
+{
+    "name": "Aung"
+}

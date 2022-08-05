@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/upload
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFhQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE2NTg0ODM2MTQsImV4cCI6MTY1ODUyNjgxNH0.7m34iMLzD_kGfSGO1427oTFPCAEYhW0HIUyZlwUINf4
